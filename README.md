@@ -1,7 +1,7 @@
 ## 👋🏻 Olá, bem-vindo(a) ao meu perfil do GitHub! 
 
 Meu nome é Natanael atuo como Diretor de estratégia e tecnologia do grupo Dr. Estágio.
-#### Minhas Atibuições são: 
+#### Minhas Atribuições são: 
 - Desenvolver e implementar estratégias de Marketing e Inovação nas emrpesas do grupo.
 - Adimnistração dos Sistemas: Estagius (gerenciamento de contratos) e IgtCursos (pataforma de cursos EAD).
 - Gestão das equipes do agente integrador Dr. Estágio, da Escola de Cursos Profissionalizantes IGT, dos Polos de Graduação e Pós Graduação Unicesumar Pacajus, Cascavel, Horizonte e Beberibe, da produtora Dev's Academy, e da ONG Instituto Tempo de Educar.
